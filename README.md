@@ -1,4 +1,13 @@
-# 👋 Hi there, I'm Miguel  
+<h1 align="center"> 
+  Hello there, I'm Miguel 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/26gsgIkUKzYZ9mTnO/giphy.gif" width="35">
+</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Python+%26+JavaScript+Specialist;SENA+Software+Development+Technologist;Scalable+Solutions+Creator;Web+Architecture+Expert;Automation+%26+Optimization;Always+learning+new+technologies"></a>
+</p>
+
+
 
 💻 Software Analyst & **Full Stack Web Developer**  
 I specialize in building complete web applications — from modern, engaging frontends to robust and scalable backends.  
@@ -39,8 +48,3 @@ I specialize in building complete web applications — from modern, engaging fro
 </p>
 
 ---
-
-## 🎬 Little Animations  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Scalable+Apps;Always+Learning+New+Techs" alt="Typing Animation" />
-</p>
