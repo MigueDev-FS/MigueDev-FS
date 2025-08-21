@@ -12,6 +12,13 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ---
 
+## 📫 Contact  
+📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+💼 LinkedIn: [Miguel Tabares](https://co.linkedin.com/in/miguel-tabares-334988356)  
+🌐 Portfolio: [Your Website](https://yourwebsite.com)  
+
+---
+
 ## 📌 Featured Projects  
 
 🚧 *Coming soon... I’m currently working on building and publishing my main projects here. Stay tuned!* 🚀  
@@ -31,9 +38,3 @@ I specialize in building complete web applications — from modern, engaging fro
 <p align="center">
   <img src="./profile-3d-contrib/profile-gitblock.svg" width="600" alt="3D contributions"/>
 </p>
-
-
-## 📫 Contact  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-💼 LinkedIn: [Miguel Tabares](https://co.linkedin.com/in/miguel-tabares-334988356)  
-🌐 Portfolio: [Your Website](https://yourwebsite.com)  
