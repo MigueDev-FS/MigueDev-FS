@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Miguel!
+# 👋 Hi there, I'm Miguel
 
 💻 Software Analyst & **Full Stack Web Developer**.  
 I specialize in building complete web applications — from modern, engaging frontends to robust and scalable backends.  
