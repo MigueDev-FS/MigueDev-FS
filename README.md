@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Miguel Tabares  
+# 👋 Hi there, I'm Miguel!
 
 💻 Software Analyst & **Full Stack Web Developer**.  
 I specialize in building complete web applications — from modern, engaging frontends to robust and scalable backends.  
@@ -7,7 +7,7 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ## ⚡ Main Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,git,github,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,python,git,github,docker,azure" />
 </p>
 
 ---
@@ -36,5 +36,5 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ## 📫 Contact  
 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-💼 LinkedIn: [Your LinkedIn](https://co.linkedin.com/in/miguel-tabares-334988356)  
+💼 LinkedIn: [Miguel Tabares](https://co.linkedin.com/in/miguel-tabares-334988356)  
 🌐 Portfolio: [Your Website](https://yourwebsite.com)  
