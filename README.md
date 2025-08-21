@@ -21,8 +21,8 @@ I specialize in building complete web applications — from modern, engaging fro
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MigueDev-FS&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueDev-FS&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MigueDev-FS&show_icons=true&theme=vue" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueDev-FS&layout=compact&theme=vue" height="165"/>
 </p>
 
 ---
