@@ -27,11 +27,10 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ---
 
-## 🐉 3D Contributions  
+## 🐉 3D Contributions
 <p align="center">
-  <img src="./profile-3D-Contrib/profile-night-rainbow.svg" width="600" alt="3D contributions"/>
+  <img src="https://raw.githubusercontent.com/MigueDev-FS/MigueDev-FS/output/profile-night-rainbow.svg" width="600" alt="3D contributions"/>
 </p>
----
 
 ## 📫 Contact  
 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
