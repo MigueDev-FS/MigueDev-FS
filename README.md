@@ -36,5 +36,5 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ## 📫 Contact  
 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)  
+💼 LinkedIn: [Your LinkedIn](https://co.linkedin.com/in/miguel-tabares-334988356)  
 🌐 Portfolio: [Your Website](https://yourwebsite.com)  
