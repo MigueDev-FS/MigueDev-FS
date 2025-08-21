@@ -29,9 +29,8 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ## 🐉 3D Contributions  
 <p align="center">
-  <img src="./profile-3D-contrib/profile-night-rainbow.svg" width="600" alt="3D contributions"/>
+  <img src="./profile-3D-Contrib/profile-night-rainbow.svg" width="600" alt="3D contributions"/>
 </p>
-
 ---
 
 ## 📫 Contact  
