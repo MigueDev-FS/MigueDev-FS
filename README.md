@@ -14,9 +14,26 @@ I specialize in building complete web applications — from modern, engaging fro
 ---
 
 ## ⚡ Main Technologies  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,python,git,github,docker,azure" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+<img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+
+</div>
 
 ---
 
