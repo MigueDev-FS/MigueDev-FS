@@ -11,12 +11,30 @@
 💻 Software Analyst & **Full Stack Web Developer**  
 I specialize in building complete web applications — from modern, engaging frontends to robust and scalable backends.  
 
+
 ---
 
-## ⚡ Main Technologies  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,python,git,github,docker,azure" />
-</p>
+## ⚡ Main Technologies
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+
+### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🚀 DevOps & Deployment
+<img src="https://skillicons.dev/icons?i=docker,azure" />
+
+### 🔧 Version Control & Collaboration
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+### 🎨 Design & UX/UI
+<img src="https://skillicons.dev/icons?i=figma" />
+
+
 
 ---
 
