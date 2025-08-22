@@ -18,9 +18,9 @@ I specialize in building complete web applications — from modern, engaging fro
 
 <table>
   <tr>
-    <th>🎨 Frontend</th>
-    <th>🛠️ Backend</th>
-    <th>🗄️ Database</th>
+    <th> Frontend</th>
+    <th> Backend</th>
+    <th> Database</th>
   </tr>
   <tr>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="40"/></td>
@@ -28,9 +28,9 @@ I specialize in building complete web applications — from modern, engaging fro
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
   </tr>
   <tr>
-    <th>🚀 DevOps & Deployment</th>
-    <th>🔧 Version Control & Collaboration</th>
-    <th>🎨 Design & UX/UI</th>
+    <th> DevOps & Deployment</th>
+    <th> Version Control & Collaboration</th>
+    <th> Design & UX/UI</th>
   </tr>
   <tr>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=docker,azure" height="40"/></td>
