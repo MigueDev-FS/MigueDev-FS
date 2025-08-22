@@ -52,10 +52,25 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ---
 
-## 📫 Contact  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-💼 LinkedIn: [Miguel Tabares](https://co.linkedin.com/in/miguel-tabares-334988356)  
-🌐 Portfolio: [Your Website](https://yourwebsite.com)  
+## 📫 Contact
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:youremail@example.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://co.linkedin.com/in/miguel-tabares-334988356" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
+  </a>
+
+  <!-- Phone -->
+  <a href="tel:+570000000000" target="_blank" title="Phone">
+    <img src="https://img.shields.io/badge/Phone-%23000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" style="vertical-align: middle;" />
+  </a>
+</p>
+
 
 ---
 
