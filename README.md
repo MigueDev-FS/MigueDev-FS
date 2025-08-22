@@ -80,6 +80,23 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ---
 
+## 💼 Experience
+
+- **Full Stack Project – Management System - Parcerottis [SENA]**  
+  Developed a web system as the final deliverable for the Software Analysis and Development program.  
+  - Full stack implementation using **React, Node.js, Express, and MySQL**.  
+  - Modules for authentication, user management, orders, and production workflows.  
+  - Deployment and version control using **GitHub**.  
+  - Team collaboration following agile methodologies (Scrum).
+
+- **Project Documentation [Benchmark Analysis]**  
+  Created technical and functional documentation for a software project.  
+  - Requirement research and analysis.  
+  - Writing use cases, UML diagrams, and architecture proposals.  
+  - A benchmark with better cost/benefit was identified, so the project did not move to the development phase.
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MigueDev-FS&show_icons=true&count_private=true&theme=vue&hide_border=true&bg_color=00000000&hide_rank=true" height="165"/>
