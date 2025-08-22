@@ -16,28 +16,36 @@ I specialize in building complete web applications — from modern, engaging fro
 
 ## ⚡ Main Technologies
 
-<table>
+<div align="center">
+
+<table style="border-collapse: collapse; background-color: transparent;">
+
   <tr>
-    <th> Frontend</th>
-    <th> Backend</th>
-    <th> Database</th>
+    <th style="background-color: transparent;">Frontend</th>
+    <th style="background-color: transparent;">Backend</th>
+    <th style="background-color: transparent;">Database</th>
   </tr>
   <tr>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=nodejs,express,python" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
   </tr>
+
   <tr>
-    <th> DevOps & Deployment</th>
-    <th> Version Control & Collaboration</th>
-    <th> Design & UX/UI</th>
+    <th style="background-color: transparent;">DevOps & Deployment</th>
+    <th style="background-color: transparent;">Version Control & Collaboration</th>
+    <th style="background-color: transparent;">Design & UX/UI</th>
   </tr>
   <tr>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=docker,azure" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=git,github" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=figma" height="40"/></td>
   </tr>
+
 </table>
+
+</div>
+
 
 
 
