@@ -28,7 +28,7 @@ I specialize in building complete web applications — from modern, engaging fro
   <tr>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=nodejs,express,python" height="40"/></td>
-    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
+    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/></td>
   </tr>
 
   <tr>
@@ -37,9 +37,11 @@ I specialize in building complete web applications — from modern, engaging fro
     <th style="background-color: transparent;">Design & UX/UI</th>
   </tr>
   <tr>
-    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=docker,azure" height="40"/></td>
+    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=docker,azure,npm" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=git,github" height="40"/></td>
-    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=figma" height="40"/></td>
+    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=figma,materialui,tailwindcss" height="40"/></td>
+    
+
   </tr>
 
 </table>
