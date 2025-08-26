@@ -8,7 +8,7 @@
 
 
 
-💻 Software Analyst & **Full Stack Web Developer**  
+💻 Software Analyst & **Junior Full Stack Web Developer**  
 I specialize in building complete web applications — from modern, engaging frontends to robust and scalable backends.  
 
 
