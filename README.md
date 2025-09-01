@@ -94,8 +94,9 @@ I specialize in building complete web applications — from modern, engaging fro
 - **Project Documentation - Gestión de Pagos [Benchmark Analysis]**  
   Created technical and functional documentation for a software project.  
   - Requirement research and analysis.  
-  - Writing use cases, UML diagrams, and architecture proposals.  
-  - A benchmark with better cost/benefit was identified, so the project did not move to the development phase.
+  - Writing use cases, UML diagrams, and architecture proposals.
+  - Created front-end views for subsequent migration and implementation in the benchmark.
+  - A benchmark with a better cost/benefit ratio was identified, so the project did not have backend development and therefore did not move into production.
 
 ---
 
