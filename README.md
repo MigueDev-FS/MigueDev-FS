@@ -26,7 +26,7 @@ I specialize in building complete web applications — from modern, engaging fro
     <th style="background-color: transparent;">Database</th>
   </tr>
   <tr>
-    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="40"/></td>
+    <td align="center" width="200"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=nodejs,express,python" height="40"/></td>
     <td align="center" width="200"><img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/></td>
   </tr>
