@@ -15,49 +15,64 @@ I specialize in building complete web applications — from modern, engaging fro
 ---
 
 
-# ⚡ Tech Stack
+## ⚡ Main Technologies
 
-<!-- Frontend -->
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-<!-- Backend -->
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<table style="border-collapse: collapse; background-color: transparent;">
 
-<!-- Frameworks -->
-### Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/astro-%23000.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  <!-- Fila 1: Frontend, Backend, Database -->
+  <tr>
+    <th style="background-color: transparent;">Frontend</th>
+    <th style="background-color: transparent;">Backend</th>
+    <th style="background-color: transparent;">Database</th>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="40"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=nodejs,python" height="40"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
+    </td>
+  </tr>
 
-<!-- Database -->
-### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <!-- Fila 2: Design, DevOps, Version Control -->
+  <tr>
+    <th style="background-color: transparent;">Design & UX/UI</th>
+    <th style="background-color: transparent;">DevOps & Deployment</th>
+    <th style="background-color: transparent;">Version Control & Collaboration</th>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=figma,materialui,tailwindcss" height="40"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=docker,azure,npm" height="40"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=git,github" height="40"/>
+    </td>
+  </tr>
 
-<!-- DevOps & Deployment -->
-### DevOps & Deployment
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%23007FFF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+  <!-- Fila 3: Frameworks centrada -->
+  <tr>
+    <th colspan="3" style="background-color: transparent;">Frameworks</th>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://skillicons.dev/icons?i=react,astro,express,flask" height="40"/>
+    </td>
+  </tr>
 
-<!-- Version Control & Collaboration -->
-### Version Control & Collaboration
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</table>
 
-<!-- Design & UX/UI -->
-### Design & UX/UI
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
+
+
+
 
 
 
