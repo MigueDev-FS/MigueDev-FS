@@ -117,12 +117,21 @@ I specialize in building complete web applications — from modern, engaging fro
   - Deployment and version control using **GitHub**.  
   - Team collaboration following agile methodologies (Scrum).
 
-- **Project Documentation / Front-End  - Gestión de Pagos [Diana Pulgarín]**  
+- **Project Documentation - Gestión de Pagos [Diana Pulgarín]**  
   Created technical and functional documentation for a software project.  
   - Requirement research and analysis.  
   - Writing use cases, UML diagrams, and architecture proposals.
   - Created front-end views for subsequent migration and implementation in the benchmark.
   - A benchmark with a better cost/benefit ratio was identified, so the project did not have backend development and therefore did not move into production.
+
+- **Front-End Development - Gestión de Pagos [Diana Pulgarín]**  
+  Developed the front-end components of a software project.  
+  - Designed and implemented responsive user interfaces.  
+  - Built reusable components aligned with project requirements.  
+  - Collaborated on UI/UX design to ensure usability and consistency.  
+  - Created views intended for integration with the system benchmark.  
+  - The project was not deployed to production due to a cost/benefit evaluation that ruled out backend development.
+
 
 ---
 
