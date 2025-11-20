@@ -63,7 +63,7 @@ I specialize in building complete web applications — from modern, engaging fro
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://skillicons.dev/icons?i=react,astro,express,flask" height="40"/>
+      <img src="https://skillicons.dev/icons?i=react,astro,express,vue" height="40"/>
     </td>
   </tr>
 
